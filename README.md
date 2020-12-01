@@ -15,7 +15,8 @@ again, the weather seems like it would be lovely almost all of the year.
 
 Finally we created a Flask app to allow users to pull their own data from our analyses. The app is available
 with the following Routes:
-'''
+
+
 Available Routes:
 
 The Precipitation Module returns all of the precipitation values along with their recorded dates
@@ -30,4 +31,3 @@ If no end date is given the end date is assumed to be the last datapoint availab
 /api/v1.0/start/end
 
 *Start and End in the above routes represent start and end dates* 
-''''
